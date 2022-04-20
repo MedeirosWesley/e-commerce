@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912622089325",
+    "project_id": "lojafluttter-b5f65",
+    "storage_bucket": "lojafluttter-b5f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912622089325:android:25e4a74ef9242738ad3b64",
+        "android_client_info": {
+          "package_name": "br.com.wesley.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912622089325-hitbib939c6ibbm073ee56ser0a01b7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaiWnE4-DJUd6zBp1FpO0yU2teRc2b9mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912622089325-hitbib939c6ibbm073ee56ser0a01b7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
